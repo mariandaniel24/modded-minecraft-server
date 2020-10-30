@@ -41,17 +41,15 @@ This dedicated server will also be used to run other programs/applications, main
 ### Hosting companies:
 
 1.  [OVH Cloud](https://www.ovhcloud.com/en-ie/bare-metal/)
-
-| URL                                                   | Name   | CPU                                     | RAM   | Bandwith | Storage           | Backup | Price (EURO) | Price (RON) |
-| ----------------------------------------------------- | ------ | --------------------------------------- | ----- | -------- | ----------------- | ------ | ------------ | ----------- |
-| https://www.ovhcloud.com/en-ie/bare-metal/game/game-1 | Game-1 | Ryzen 5 3600X - 6 cores at 3.8GHz       | 32 GB | 1GBps    | 2x500 GB SSD NVMe | 500GB  | 90           | 437         |
-| https://www.ovhcloud.com/en-ie/bare-metal/rise/rise-3 | Rise-3 | Intel Core i7-7700K - 4 cores at 4.2GHz | 32 GB | 500mbps  | 2x450 GB SSD NVMe | 500GB  | 74.5         | 362         |
+    | Name | CPU | RAM | Bandwith | Storage | Backup | Price (EURO) | Price (RON) |
+    | --------------------------------------------------------------- | --------------------------------------- | ----- | -------- | ----------------- | ------ | ------------ | ----------- |
+    | [Game-1](https://www.ovhcloud.com/en-ie/bare-metal/game/game-1) | Ryzen 5 3600X - 6 cores at 3.8GHz | 32 GB | 1GBps | 2x500 GB SSD NVMe | 500GB | 90 | 437 |
+    | [Rise-3](https://www.ovhcloud.com/en-ie/bare-metal/rise/rise-3) | Intel Core i7-7700K - 4 cores at 4.2GHz | 32 GB | 500mbps | 2x450 GB SSD NVMe | 500GB | 74.5 | 362 |
 
 2.  [Hetzner](https://www.hetzner.com/dedicated-rootserver) - Germany based
-
-| URL                                                                 | Name      | CPU                                  | RAM   | Bandwith | Storage           | Backup | Price (EURO)      | Price (RON)          |
-| ------------------------------------------------------------------- | --------- | ------------------------------------ | ----- | -------- | ----------------- | ------ | ----------------- | -------------------- |
-| https://www.hetzner.com/dedicated-rootserver/ax41-nvme/configurator | AX41-NVMe | AMD Ryzen 5 3600 Hexa-Core - 3.6 GHz | 64 GB | 1GBps    | 2x500 GB SSD NVMe | 0      | 45 + 45(one time) | 218 + 218 (one time) |
+    | URL | CPU | RAM | Bandwith | Storage | Backup | Price (EURO) | Price (RON) |
+    | -------------------------------------------------------------------------------- | ------------------------------------ | ----- | -------- | ----------------- | ------ | ----------------- | -------------------- |
+    | [AX41-NVMe](https://www.hetzner.com/dedicated-rootserver/ax41-nvme/configurator) | AMD Ryzen 5 3600 Hexa-Core - 3.6 GHz | 64 GB | 1GBps | 2x500 GB SSD NVMe | 0 | 45 + 45(one time) | 218 + 218 (one time) |
 
 ## Forum
 
