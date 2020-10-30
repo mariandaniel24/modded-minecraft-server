@@ -25,6 +25,28 @@
 
 ## Hosting
 
+We will be comparing price/performances of various hosting services for dedicated servers. These requirements may change depending on the chosen modpack.
+
+Dedicated server requirements:
+
+- `32 GB` of RAM
+- High clock speeds per CPU core (hopefully at least `3.5 GHz`)
+- SSD Storage (at least `512 GB`)
+- Included backup storage (at least `1 TB`)
+- Under `€100` per month
+- Available in `US/Canada` or `Germany`
+
+This dedicated server will also be used to run other programs/applications, mainly minecraft-related services (forums/websites).
+
+### Hosting companies:
+
+1.  [OVH Cloud](https://www.ovhcloud.com/en-ie/bare-metal/)
+
+| URL                                                   | Name   | CPU                                     | RAM   | Bandwith | Storage           | Backup | Price (EURO) | Price (RON) |
+| ----------------------------------------------------- | ------ | --------------------------------------- | ----- | -------- | ----------------- | ------ | ------------ | ----------- |
+| https://www.ovhcloud.com/en-ie/bare-metal/game/game-1 | Game-1 | Ryzen 5 3600X - 6 cores at 3.8GHz       | 32 GB | 1GBps    | 2x500 GB SSD NVMe | 500GB  | 90           | 437         |
+| https://www.ovhcloud.com/en-ie/bare-metal/rise/rise-3 | Rise-3 | Intel Core i7-7700K - 4 cores at 4.2GHz | 32 GB | 500mbps  | 2x450 GB SSD NVMe | 500GB  | 74.5         | 362         |
+
 ## Forum
 
 ## Technical implementations
