@@ -4,14 +4,13 @@
 - Server Version: **FTB Interactions 2.0.9 (1.12.2)**
 - Server IP: **N/A**
 ______________________________________________________________________________
-
 ## About us
 
 **?Name?** is a community in development that aim to provide and maintain quality gaming 
 servers
 Since this community is just starting out, we will focus on a whitelist FTB Interactions minecraft server, our goal is to provide a long term and lag-free experience for all of our players.
 
-
+___
 ## Server info
 - Modpack: **FTB Interactions 2.0.9 (1.12.2)**
 - Whitelist: **ON**
@@ -44,7 +43,7 @@ ___
 
 ___
 ## Server specs:
-- AMD Ryzen 5 3600 Hexa-Core
+- AMD Ryzen 5 3600 Hexa-Core 3.6 GHz (4.2 Turbo)
 - RAM 64 GB DDR4
 - 2x 512 GB NVMe SSD
 
