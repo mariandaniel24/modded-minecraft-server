@@ -1,10 +1,8 @@
-# Startup modded Minecraft server
+# Startup modded Minecraft server (WIP)
 
 Docs:
 - [Whitelist Application](./WHITELIST_APPLICATION.md)
 
-
-### First of all, we will explore some essential ideas:
 
 ## Modpack
 
