@@ -53,6 +53,13 @@ This dedicated server will also be used to run other programs/applications, main
 
 ## Forum
 
+1. [Flarum](https://flarum.org/)
+   First thoughts:
+   - Customizable
+   - BETA - it might break
+   - Running MySQL (possibility to upgrade to hasura with a custom frontend later)
+2. [Discourse](https://www.discourse.org/)
+
 ## Technical implementations
 
 ## Total monthly cost
